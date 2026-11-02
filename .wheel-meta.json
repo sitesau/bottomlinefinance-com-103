@@ -1,0 +1,22 @@
+{
+  "wheel_id": 662,
+  "structure": "umbrella",
+  "slug": "bottomlinefinance-com-103",
+  "project": "private-lending-brisbane-before-you-start-66fc01caeb025778a43f2",
+  "parent_t1_ref": "bottomlinefinance-com-151",
+  "node_role": "feeder",
+  "money_target": "bottomlinefinance.com.au",
+  "primary_kw": "private lending brisbane before you start",
+  "intended_url": "https://sitesau.github.io/bottomlinefinance-com-103/",
+  "tier": "T2",
+  "writeback_nonce": "8081f894db6bc1c3",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/private-lending-brisbane-da30cd888d791f27039399fab05babc9bd5af7/",
+      "anchor": "private lending brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
